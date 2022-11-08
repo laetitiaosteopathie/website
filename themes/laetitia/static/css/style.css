@@ -152,7 +152,14 @@ header h1 i{
 }
 
 .cta{
-  margin: 2em;
+  margin: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+}
+.cta a{
+  display: inline-block;
 }
 
 .cv{

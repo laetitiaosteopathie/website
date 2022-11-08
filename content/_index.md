@@ -3,11 +3,9 @@
 +++
 
 
-<div class="center cta">
-  
-[Prendre RDV à Morges](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
-[Prendre RDV à Cossonay](https://progenda.be/calendars/jordan-cossonay-laetitia-osteopathe-cossonay)
-
+<div class="cta">
+<a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank">Prendre RDV à Morges</a>
+<a href="https://progenda.be/calendars/jordan-cossonay-laetitia-osteopathe-cossonay" target="_blank">Prendre RDV à Cossonay</a>
 </div>
 
 <div class="center">
