@@ -1,0 +1,9 @@
+baseURL = 'https://laetitia-osteopathie.ch'
+languageCode = 'fr-ch'
+title = 'Laetitia Osteopathie'
+theme = 'laetitia'
+
+[markup]
+  [markup.goldmark]
+	[markup.goldmark.renderer]
+	  unsafe = true
