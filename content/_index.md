@@ -8,11 +8,11 @@
 
 # Quand consulter en ostéopathie périnatale et pédiatrique ?
 
-Développer une image valorisante et assurer une communication cohérente sont des défis qui nécessitent une attention particulière et la mise en œuvre d’actions innovantes.
+L’ostéopathie/ma pratique ostéopathique s’adresse également à tous les troubles fonctionnels et musculo-squelettiques de l’adulte.
 
-Afin de répondre aux enjeux des relations publiques, je propose une méthode en quatre étapes pour **accompagner les entreprises et associations** et les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
+[Prendre RDV à Morges](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
 
-[Prenez contact](mailto:info@relationspubliques.ch)
+[Prendre RDV à Cossonay](https://progenda.be/calendars/jordan-cossonay-laetitia-osteopathe-cossonay)
 
 </div>
 </div>
