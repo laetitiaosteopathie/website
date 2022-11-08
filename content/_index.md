@@ -1,149 +1,134 @@
 +++
 
 +++
-<div class="container-full">
-<div class="teaser">
-<img src="/uploads/header_laetitia.jpg" alt="Laetitia Jordan">
-<div>
 
-# Quand consulter en ostéopathie périnatale et pédiatrique ?
 
-L’ostéopathie/ma pratique ostéopathique s’adresse également à tous les troubles fonctionnels et musculo-squelettiques de l’adulte.
-
+<div class="center cta">
+  
 [Prendre RDV à Morges](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
-
 [Prendre RDV à Cossonay](https://progenda.be/calendars/jordan-cossonay-laetitia-osteopathe-cossonay)
 
 </div>
-</div>
+
+<div class="center">
+
+### L’ostéopathie s’adresse à tous les troubles fonctionnels et musculo-squelettiques.
+
 </div>
 
-# Quatre étapes pour améliorer l’impact de vos actions
-
-Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre les actions de communication adéquates de manière autonome.
 
 <div class="container-full">
 <div class="boxes">
 <div class="box">
 
-#### 1
+<img src="/uploads/perinatalite.jpg" class="box-image"/>
 
-## Se positionner et formuler un message
+<div class="box-content">
 
-### Analyser et se démarquer
+## Périnatalité
 
-* Diagnostic stratégique
-* Message map
-* Stratégie de communication
+### Femme enceinte ; Pré et post natal
 
-</div>
+* Lombalgies/sciatalgies/ dorsalgies
+* Douleurs ligamentaires
+* Diminution de la mobilité  globale
+* Accouchement compliqué/instrumentalisé 
+* Troubles de la fertilité 
+
+</div></div>
 <div class="box">
+<img src="/uploads/pediatrie.jpg" class="box-image"/>
 
-#### 2
+<div class="box-content">
 
-## Créer un contenu pertinent
 
-### Travailler la forme et le fond
+## Pédiatrie
 
-* Identité graphique
-* Création des contenus
-* Optimisation des supports
+### Enfants 0 à 16 ans
 
-</div>
-<div class="box">
+* Accouchement instrumentalisé 
+* Déformations crâniennes positionnelles ou asymétries faciales 
+* Difficulté à l’allaitement/troubles de la succion 
+* Hyper-hypotonie 
+* Troubles digestifs : coliques, RGO, troubles du transit (constipation)
+* Troubles ORL : encombrement bronches/sinusites/otites à répétition 
+* Prématurité 
+* Certains troubles du sommeil 
+* Troubles de la marche et du développement psychomoteur
+* En soutient à des traitement orthopédiques/chir correctives/dans le cadre d’un syndrome suivi médicalemen
 
-#### 3
-
-## Se faire connaître et reconnaître
-
-### Piloter les actions de communication
-
-* Communication interne
-* Communication externe
-* Relations presse
-
-</div>
-<div class="box">
-
-#### 4
-
-## Intégrer les compétences
-
-### Se former et devenir autonome
-
-* Organisation optimale
-* Indicateurs clés
-* Formation
-
-</div>
+</div></div>
 </div>
 </div>
 
-<div class="article">
 
-# Ne pas communiquer, c'est aussi communiquer
 
-Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi, particulièrement en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
-
-</div>
-
-<div class="container-full"> <div class="boxes"> <div class="box">
-
-## Optez pour un kit de communication
-
-Un accompagnement global n’est pas toujours abordable ou ne s’impose pas comme une priorité. Optez alors pour un kit de communication qui vous permettra de maîtriser vos coûts, améliorer rapidement votre visibilité et consolider votre stratégie au fil des expériences.
-
-</div>
-
-<div class="box">
-
-## Starter kit
-
-* Positionnement narratif
-* Stratégie de contenu
-* Plan de communication simplifié
-
-## Advanced content kit
-
-* Conception d’une identité visuelle
-* Création de 25 publications (photos et textes) pour les réseaux sociaux
-* Production d’une vidéo (trois déclinaisons)
-* Mise en place d’un système de newsletter et d’un site web
-* Formation et rapports des performances
-
-  </div>
-
-</div> </div> </div>
 
 <br/>
 
-# Assurez la performance de votre communication
+# Approche thérapeutique
 
-Définissez des objectifs de communication concrets et mesurables. Pilotez avec des indicateurs clés intégrés à un tableau de bord adapté à vos besoins.
+Ma pratique s’oriente en particulier vers la périnatalité et la pédiatrie, mais s’adresse également à tous les âges et périodes de vie. La collaboration avec d’autres professionnels de la santé est un point central afin de proposer une prise en charge complète et adaptée à chaque situation. Collab développ psychomot + en soutient à d’autre pathologies en collab avec suivi médical.  C’est avec enthousiasme que j’exerce actuellement l’ostéopathie aux côtés de Line Rossier au centre Autour de la famille à Morges ainsi que dans le centre ostéopathique de Cossonay.
+
+<div class="container-full">
+  <div class="cv">
+  
+  
+  # Laetitia Jordan
+  
+  <img src="/uploads/header_laetitia.jpg"/>
+  
+  Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est développé durant un stage effectué, dans le cadre de mon Master, dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève. Poursuivi après mes études avec fomration en ostéopathie périntatale et pédiatrique (SEROP + Hospitalier). Séminaire observation et évaluation du bébé de 0-3 ans aux hôpitaux universitaires de Genève J’ai aimé la finesse que requiert le traitement ostéopathique auprès de nourrissons ainsi que les connaissances spécifiques nécessaires à leur bonne prise en charge. 
+  
+  * 2022-2023 : SOEB HUG 
+  * 2021-2022 : Formation post graduée en ostéopathie périnatale et pédiatrique, OPP Paris 
+  * 2016-2021 : Master en Ostéopathie à la Haute école de Santé de Fribourg
+    
+  </div>
+</div>
+
 
 <footer class="container-full">
-<div class="container">
+
+
+<div style="max-width:60em;margin:0 auto;padding:1em;">
+
+# Prendre rendez-vous
+</div>  
+
+
+
 
 <div class="footer-container">
 
 <div>
+  
+  #### En cas d’urgence
+  Entre 8h et 18h ou via Whatsapp <br/>
+  [077 448 61 34](tel:0041774486134)
+  
+</div>
 
-# Contact
 
-Vous souhaitez améliorer votre stratégie de communication, faire évoluer ou mettre en place des actions pertinentes dans votre contexte ? **Parlons-en autour d’un café.**
+<div>
 
-### Loïc Favre
+#### Centre autour de la famille
+Chemin de la Brume 2 <br/>  1110 Morges <br/>  [Prendre RDV à Morges](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
 
-#### **Consultant en relations publiques**
+</div>
+<div>
 
-Lausanne, Vaud, Suisse <br/>  
-[info@relationspubliques.ch](mailto:info@relationspubliques.ch)<br/> [+41 79 301 86 92](tel:0793018692)<br/> [LinkedIn](https://www.linkedin.com/in/loicfavre)<br/> <br/>  <br/>  <br/>
+#### Centre ostéopathique de Cossonay 
+Route d’Aubonne 2  <br/>  1304 Cossonay  <br/>  [Prendre RDV à Cossonay](https://progenda.be/calendars/jordan-cossonay-laetitia-osteopathe-cossonay)
+
 
 </div>
 
-<img src="/uploads/lf_contact.jpg"/>
 
 </div>
 
-</div>
+
+
+
+
 </footer>
