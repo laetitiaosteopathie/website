@@ -7,7 +7,7 @@
 	<title>{{ .Title }}</title>
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}?{{ now }}">
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -25,17 +25,15 @@
 	<meta name="msapplication-TileColor" content="#000000">
 	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#000000">
-	<meta property="og:url" content="https://relationspubliques.ch"/>
+	<meta property="og:url" content="https://laetitiajordan.ch"/>
 	<meta property="og:title" content="{{ .Title }}"/>
 	{{ with .Site.Params.description }}<meta property="og:description" content="{{ . }}" />{{ end }}
-	<meta property="og:image" content="https://relationspubliques.ch/relationspubliques_banner.jpg"  />
-	<meta property="og:image:url"  content="https://relationspubliques.ch/relationspubliques_banner.jpg"  />
-	<meta property="twitter:image" content="https://relationspubliques.ch/relationspubliques_banner.jpg"  />
 </head>
 <body>
 	<header>
+		<h3>Laetitia Jordan</h3>
 		<h1>
-			Laetitia <span>Ostéopathie</span><br/> 
+			Ostéopathie
 			<i>Ostéopathie périnatale et pédiatrique</i>
 		</h1>
 	</header>

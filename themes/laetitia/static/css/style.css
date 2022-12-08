@@ -65,6 +65,10 @@ main{
 }
 
 a{
+  color: var(--rosy-brown);
+}
+
+a.btn, footer a{
   text-decoration: none;
   color: var(--white);
   box-sizing: border-box;
@@ -74,7 +78,7 @@ a{
   background-color: var(--gunmetal);  
   border: 3px solid var(--gunmetal);
 }
-a:hover{
+a.btn:hover, footer a:hover{
   background-color: var(--gunmetalplus);  
   border: 3px solid var(--gunmetalplus);
 }
@@ -85,7 +89,11 @@ header{
   margin-bottom: 0;
   padding: 0 1em;
 }
+header h3{
+  text-align: center;
+}
 header h1{
+  margin-top: 0.1em;
   padding: 0em;
   text-align: center;
   font-weight: 550;
@@ -169,7 +177,8 @@ header h1 i{
 }
 .cv img{
   float:left;
-  max-width: 40vw;
+  max-width: 100%;
+  width: clamp(600px, 30vw, 600px);
   margin: 0.4em 2.5em 1.6em 0;
 }
 
@@ -221,7 +230,7 @@ h3, .h3 {
   font-size: -webkit-calc(90% + 1vw);
   font-weight: 300;
   line-height: 1.3em;
-  margin-top: 0;
+  margin-top: 0.8em;
   margin-bottom: 0;
 }
 h4, .h4 {
@@ -243,9 +252,6 @@ p, ul, ol, pre, table, blockquote {
   margin-top: 0;
   margin-bottom: 0.5em;
 }
-p + p, p + h2, p + h3, p + ul, ul + p, h2 + p, h3 + ol, h3 + ul, h2 + ol, h2 + ul{
-  margin-top: 0.8em;
-}
 h1 + h2, h2 + h3, h3 + h4{
   margin-top: 0.5em;
 }
@@ -260,6 +266,10 @@ ul li , ol li{
 ul ul, ol ol, ul ol, ol ul {
   margin-top: 0px;
   margin-bottom: 0px;
+}
+p + p, p + h2, p + ul, ul + p, h2 + p, h3 + ol, h3 + ul, h2 + ol, h2 + ul{
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
 }
 
 
