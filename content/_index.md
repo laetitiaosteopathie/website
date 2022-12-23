@@ -1,7 +1,7 @@
 +++
 
 +++
-## **Femmes** pré et post natal
+## **Femmes** du pré au post natal
 
 * Douleurs dorsales et ligamentaires durant la grossesse
 * En préparation à l’accouchement
