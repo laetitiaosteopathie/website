@@ -31,7 +31,7 @@
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities" target="_blank" class="btn">Prendre rdv pour un enfant</a>
 </div>
 
-## **Adultes et Parents**
+## **Adultes** 
 
 Troubles fonctionnels et musculo-squelettiques
 
