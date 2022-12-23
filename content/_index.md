@@ -18,8 +18,13 @@
 * Accouchement compliqué, instrumentalisé
 * Difficulté à tourner la tête d’un côté
 * Troubles de la succion, difficulté à l’allaitement
+* Troubles digestifs : constipations, coliques, régurgitations abondantes
+* Déformations crâniennes positionnelles (plagiocéphalie) ou asymétries faciales
+* ORL : otites à répétition, encombrement des bronches, œil qui coule que d’un côté
+* Asymétrie lors de la marche
+* Avant ou pendant un traitement orthodontique
 
-<small>Mais également ...Troubles digestifs : constipations, coliques, régurgitations abondantes, Déformations crâniennes positionnelles (plagiocéphalie) ou asymétries faciales, ORL : otites à répétition, encombrement des bronches, œil qui coule que d’un côté, Asymétrie lors de la marche , Avant ou pendant un traitement orthodontique, … Ou pour toute douleur musculosquelettique de l’enfant</small>
+<small>Ou pour toute douleur musculosquelettique de l’enfant</small>
 
 ### En parallèle à un suivi médical
 
