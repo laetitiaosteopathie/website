@@ -39,10 +39,6 @@ Troubles fonctionnels et musculo-squelettiques
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
 </div>
 
-<br/>
-
-</div>
-
 # Laetitia Jordan
 
 <img src="/uploads/header_laetitia.jpg"/>
