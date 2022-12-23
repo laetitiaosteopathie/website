@@ -1,8 +1,7 @@
 +++
 
 +++
-## Femmes 
-###pré et post natal
+## **Femmes** pré et post natal
 
 * Douleurs dorsales et ligamentaires durant la grossesse
 * En préparation à l’accouchement
@@ -14,7 +13,7 @@
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
 </div>
 
-## Enfants
+## **Enfants**
 
 * Accouchement compliqué, instrumentalisé
 * Difficulté à tourner la tête d’un côté
@@ -32,7 +31,7 @@
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities" target="_blank" class="btn">Prendre rdv pour un enfant</a>
 </div>
 
-## Adultes et Parents
+## **Adultes et Parents**
 
 Troubles fonctionnels et musculo-squelettiques
 
