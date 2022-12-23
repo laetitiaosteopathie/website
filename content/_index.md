@@ -49,6 +49,8 @@ Troubles fonctionnels et musculo-squelettiques
 
 <br/>
 
+</div>
+
 # Laetitia Jordan
 
 <img src="/uploads/header_laetitia.jpg"/>
