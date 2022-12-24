@@ -42,7 +42,7 @@
 # Laetitia Jordan
 
 <img src="/uploads/header_laetitia.jpg"/>
-<br>
+
 Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est développé durant un stage effectué dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève. Je me suis spécialisée en ostéopathie périnatale et pédiatrique à Paris (OPP formation), après avoir été diplômée d’un master à la Haute école de santé de Fribourg.
 En prenant part à un module du CAS en périnatalité aux HUG (séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans) ainsi qu’à diverses formations continues proposées par SuisseOsteo, je continue à me former dans ce domaine.
 
