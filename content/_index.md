@@ -24,12 +24,12 @@
 * Asymétrie lors de la marche
 * Avant ou pendant un traitement orthodontique
 
-<small>Ou pour toute douleur musculosquelettique de l’enfant ou en parallèle à un suivi médical : torticolis congénital, luxation congénitale de hanches, déformations des pieds (varus, pieds bots), reflux gastro-œsophagien, asymétrie faciale secondaire à une crâniosténose, etc.</small>
+<small>Ou pour toute douleur musculosquelettique de l’enfant ou **en parallèle à un suivi médical** : torticolis congénital, luxation congénitale de hanches, déformations des pieds (varus, pieds bots), reflux gastro-œsophagien, asymétrie faciale secondaire à une crâniosténose, etc.</small>
 
 <div class="cta"> <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities" target="_blank" class="btn">Prendre RDV pour un bébé</a> <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities" target="_blank" class="btn">Prendre RDV pour un enfant</a>
 </div>
 
-## **Adultes** 
+## **Adultes**
 
 Troubles fonctionnels et musculo-squelettiques
 
