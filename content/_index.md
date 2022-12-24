@@ -31,7 +31,9 @@
 
 ## **Adultes**
 
-Troubles fonctionnels et musculo-squelettiques
+* Troubles fonctionnels 
+* Dysfonctions musculo-squelettiques
+* Lorem ipsum 
 
 <div class="cta">
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
