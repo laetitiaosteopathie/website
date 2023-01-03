@@ -1,8 +1,9 @@
 +++
 
 +++
-## **Pédiatrie**  
-Du nourrisson à l'adolescent 
+## **Pédiatrie**
+
+Du nourrisson à l'adolescent
 
 * Accouchement compliqué, instrumentalisé
 * Difficulté à tourner la tête d’un côté
@@ -17,7 +18,8 @@ Du nourrisson à l'adolescent
 
 <div class="cta"> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un bébé</a> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un enfant</a> </div>
 
-## **Périnatalité**  
+## **Périnatalité**
+
 Femmes du pré au post natal
 
 * Douleurs dorsales et ligamentaires durant la grossesse
@@ -30,12 +32,13 @@ Femmes du pré au post natal
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
 </div>
 
-## **Ostéopathie générale**  
-Adulte 
+## **Ostéopathie générale**
+
+Adulte
 
 * Dysfonctions de l'appareil musculo-squelettiques
 * Dysfonctions digestives
-* Douleurs de la sphère gynécologique  
+* Douleurs de la sphère gynécologique
 * Suite de chocs et accidents
 * Autres douleurs ou troubles fonctionnels
 
@@ -51,11 +54,11 @@ Je crois que chaque enfant devrait avoir les mêmes opportunités de développem
 
 La collaboration avec le corps médical et d’autres professionnels de la santé m’est essentielle afin de proposer une prise en charge adaptée à chaque situation. J’exerce actuellement l’ostéopathie en collaboration avec [Line Rossier](https://www.osteo-line.ch/) au [centre Autour de la famille](https://autourdelafamille.ch/osteopathie/) à Morges ainsi que dans le centre ostéopathique de Cossonay.
 
-Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est développé durant un stage effectué dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève. 
+Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est développé durant un stage effectué dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève.
 
-#### **Formation continue** 
+#### **Formation continue**
 
-Je me suis spécialisée de 2021 à 2022 en ostéopathie périnatale et pédiatrique à Paris (OPP formation), après avoir été diplômée d’un master en ostéopathie à la Haute école de santé de Fribourg.
+Je me suis spécialisée de 2021 à 2022 en ostéopathie périnatale et pédiatrique à Paris ([OPP formation](https://osteopathie-perinatale-pediatrique.com/)), après avoir été diplômée d’un master en ostéopathie à la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/).
 
 Je participe actuellement à un module du CAS en périnatalité aux HUG (séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans) ainsi qu'à diverses formations continues pédiatriques.
 
