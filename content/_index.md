@@ -62,9 +62,9 @@ Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est d�
 
 Je me suis spécialisée de 2021 à 2022 en ostéopathie périnatale et pédiatrique à Paris ([OPP formation](https://osteopathie-perinatale-pediatrique.com/)), après avoir été diplômée d’un master en ostéopathie à la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/).
 
-Je participe actuellement à [un séminaire d’observation et d’évaluation du développement](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) de l’enfant 0-3 ans aux HUG ainsi qu'à diverses formations continues pédiatriques.
+Je participe actuellement à un séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans aux [HUG](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) ainsi qu'à diverses formations continues pédiatriques.
 
-Je suis affiliée à la [Fédération Suisse d’ostéopathie](https://www.fso-svo.ch/) (Suisse Ostéo) ainsi qu’à la [Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique](https://seropp.org/) (SEROPP).
+Je suis affiliée à la Fédération Suisse d’ostéopathie [(Suisse Ostéo)](https://www.fso-svo.ch/) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique [(SEROPP)](https://seropp.org/).
 
 </div>
 </div>
