@@ -51,11 +51,13 @@ Je crois que chaque enfant devrait avoir les mêmes opportunités de développem
 
 La collaboration avec le corps médical et d’autres professionnels de la santé m’est essentielle afin de proposer une prise en charge adaptée à chaque situation. J’exerce actuellement l’ostéopathie en collaboration avec [Line Rossier](https://www.osteo-line.ch/) au [centre Autour de la famille](https://autourdelafamille.ch/osteopathie/) à Morges ainsi que dans le centre ostéopathique de Cossonay.
 
-Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est développé durant un stage effectué dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève. Je me suis spécialisée durant 2 ans en ostéopathie périnatale et pédiatrique à Paris (OPP formation), après avoir été diplômée d’un master en ostéopathie à la Haute école de santé de Fribourg.
+Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est développé durant un stage effectué dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève. 
 
 #### **Formation continue** 
 
-Je me forme continuellement dans le domaine ..... . Je participe actuellement à un module du CAS en périnatalité aux HUG (séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans) ainsi qu'à diverses formations continues pédiatriques.
+Je me suis spécialisée de 2021 à 2022 en ostéopathie périnatale et pédiatrique à Paris (OPP formation), après avoir été diplômée d’un master en ostéopathie à la Haute école de santé de Fribourg.
+
+Je participe actuellement à un module du CAS en périnatalité aux HUG (séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans) ainsi qu'à diverses formations continues pédiatriques.
 
 Je suis affiliée à la [Fédération Suisse d’ostéopathie](https://www.fso-svo.ch/) (Suisse Ostéo) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique (SEROPP).
 
