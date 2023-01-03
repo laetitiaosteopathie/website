@@ -44,11 +44,15 @@
 
 <img src="/uploads/header_laetitia.jpg"/>
 
-Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est développé durant un stage effectué dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève. Je me suis spécialisée en ostéopathie périnatale et pédiatrique à Paris (OPP formation), après avoir été diplômée d’un master à la Haute école de santé de Fribourg.
-En prenant part à un module du CAS en périnatalité aux HUG (séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans) ainsi qu’à diverses formations continues proposées par SuisseOsteo, je continue à me former dans ce domaine.
+Je crois que chaque enfant devrait avoir les mêmes opportunités de développement psychomoteur et d’apprentissage dès sa naissance. En offrant un suivi précoce ostéopathique du nourrisson, de l’enfant et de la relation de ce dernier à son environnement, j’espère pouvoir détecter et donner « un coup de pouce » en intervenant sur les troubles fonctionnels qu’il pourrait rencontrer au cours de son développement.
 
-En accompagnant de le couple de parents et l’enfant de manière précoce, permet ne prise en charge adéquate durant la grossesse des parents
-La collaboration avec le corps médical et d’autres professionnels de la santé m’est essentielle afin de proposer une prise en charge adaptée à chaque situation.  J’exerce actuellement l’ostéopathie en collaboration avec [Line Rossier](https://www.osteo-line.ch/) au [centre Autour de la famille](https://autourdelafamille.ch/osteopathie/) à Morges ainsi que dans le centre ostéopathique de Cossonay.
+La collaboration avec le corps médical et d’autres professionnels de la santé m’est essentielle afin de proposer une prise en charge adaptée à chaque situation. J’exerce actuellement l’ostéopathie en collaboration avec [Line Rossier](https://www.osteo-line.ch/) au [centre Autour de la famille](https://autourdelafamille.ch/osteopathie/) à Morges ainsi que dans le centre ostéopathique de Cossonay.
+
+**Mon parcours   
+**Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est développé durant un stage effectué dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève. Je me suis spécialisée durant 2 ans en ostéopathie périnatale et pédiatrique à Paris (OPP formation), après avoir été diplômée d’un master en ostéopathie à la Haute école de santé de Fribourg.
+
+**Formation continue   
+**Je me forme continuellement dans le domaine ..... . Je participe actuellement à un module du CAS en périnatalité aux HUG (séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans) ainsi qu'à diverses formations continues pédiatriques proposées par SuisseOsteo.
 
 </div>
 </div>
