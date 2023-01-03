@@ -23,7 +23,6 @@
 * Douleurs persistantes suite à l’accouchement
 * Dysfonctions du périnée (douleur, pesanteur, fuites) et avant toute rééducation en physiothérapie
 * Lors de difficultés à tomber enceinte
-* ...
 
 <div class="cta">
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
@@ -32,9 +31,10 @@
 ## **Ostéopathie générale** · adulte 
 
 * Dysfonctions de l'appareil musculo-squelettiques
-* Dysfonctions viscérales: trouble digestif, douleurs de la sphère gynécologique  
+* Dysfonctions digestives
+* Douleurs de la sphère gynécologique  
 * Suite de chocs et accidents
-* ...
+* Autres douleurs ou troubles fonctionnels
 
 <div class="cta">
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
