@@ -52,15 +52,19 @@ Centre autour de la famille, chemin de la Brume 2, 1110 Morges
 
 <img src="/uploads/header_laetitia.jpg"/>
 
-Je crois que chaque enfant devrait avoir les mêmes opportunités de développement psychomoteur et d’apprentissage dès sa naissance. En offrant un suivi précoce ostéopathique du nourrisson, de l’enfant et de la relation de ce dernier à son environnement, j’espère pouvoir détecter et donner « un coup de pouce » en intervenant sur les troubles fonctionnels qu’il pourrait rencontrer au cours de son développement.
+Je crois que chaque enfant devrait avoir les mêmes opportunités de développement psychomoteur et d’apprentissage dès la naissance. 
 
-La collaboration avec le corps médical et d’autres professionnels de la santé m’est essentielle afin de proposer une prise en charge adaptée à chaque situation. J’exerce actuellement l’ostéopathie en collaboration avec [Line Rossier](https://www.osteo-line.ch/) au [centre Autour de la famille](https://autourdelafamille.ch/osteopathie/) à Morges ainsi que dans le centre ostéopathique de Cossonay.
+En prenant en compte la relation à l'environnement, je détecte et donne « un coup de pouce » en intervenant sur les troubles fonctionnels que le nourrisson ou l'enfant peut rencontrer au cours de son développement. 
 
-Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est développé durant un stage effectué dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève.
+La collaboration avec le corps médical et d’autres professionnels de la santé est essentielle afin de proposer une prise en charge adaptée à chaque situation. 
+
+J’exerce actuellement l’ostéopathie en collaboration avec [Line Rossier](https://www.osteo-line.ch/) au [centre Autour de la famille](https://autourdelafamille.ch/osteopathie/) à Morges ainsi que dans le centre ostéopathique de Cossonay.
 
 #### **Formation continue**
 
-Je me suis spécialisée de 2021 à 2022 en ostéopathie périnatale et pédiatrique à Paris ([OPP formation](https://osteopathie-perinatale-pediatrique.com/)), après avoir été diplômée d’un master en ostéopathie à la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/).
+Dans le cadre de mon Master en ostéopathie à la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/), j'ai effectué un stage dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève.
+
+Par la suite, je me suis spécialisée de 2021 à 2022 en ostéopathie périnatale et pédiatrique à Paris ([OPP formation](https://osteopathie-perinatale-pediatrique.com/)).
 
 Je participe actuellement à un séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans aux [HUG](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) ainsi qu'à diverses formations continues pédiatriques.
 
