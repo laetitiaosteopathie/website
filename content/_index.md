@@ -12,11 +12,11 @@
 * Asymétrie lors de la marche
 * Avant ou pendant un traitement orthodontique
 
-<small>Pour toute douleur musculosquelettique de l’enfant ou **en parallèle à un suivi médical** : torticolis congénital, luxation congénitale de hanches, déformations des pieds (varus, pieds bots), reflux gastro-œsophagien, asymétrie faciale secondaire à une crâniosténose, etc.</small>
+<small>Pour toute douleur musculosquelettique de l’enfant ou **en parallèle à un suivi médical** : torticolis congénital, luxation congénitale de hanches, déformations des pieds (varus, pieds bots), scoliose, reflux gastro-œsophagien, asymétrie faciale secondaire à une crâniosténose, trouble du tonus, etc.</small>
 
 <div class="cta"> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un bébé</a> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un enfant</a> </div>
 
-## **Périnatalité** du pré au post natal
+## **Périnatalité** femmes du pré au post natal
 
 * Douleurs dorsales et ligamentaires durant la grossesse
 * En préparation à l’accouchement
