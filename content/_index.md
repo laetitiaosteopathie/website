@@ -1,8 +1,8 @@
 +++
 
 +++
-## **Pédiatrie  
-**Du nourrisson à l'adolescent 
+## **Pédiatrie**  
+Du nourrisson à l'adolescent 
 
 * Accouchement compliqué, instrumentalisé
 * Difficulté à tourner la tête d’un côté
