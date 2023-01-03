@@ -1,11 +1,10 @@
 +++
 
 +++
-<div class="cta">
 Centre autour de la famille, chemin de la Brume 2, 1110 Morges
-</div>
 
 ## **Pédiatrie**
+
 ### Du nourrisson à l'adolescent
 
 * Accouchement compliqué ou instrumentalisé
@@ -22,6 +21,7 @@ Centre autour de la famille, chemin de la Brume 2, 1110 Morges
 <div class="cta"> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un bébé</a> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un enfant</a> </div>
 
 ## **Périnatalité**
+
 ### Femmes du pré au post natal
 
 * Douleurs dorsales et ligamentaires durant la grossesse
@@ -35,6 +35,7 @@ Centre autour de la famille, chemin de la Brume 2, 1110 Morges
 </div>
 
 ## **Ostéopathie générale**
+
 ### Adulte
 
 * Dysfonctions de l'appareil musculo-squelettiques
