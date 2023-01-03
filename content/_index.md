@@ -3,7 +3,7 @@
 +++
 ## **Pédiatrie**
 
-Du nourrisson à l'adolescent
+**Du nourrisson à l'adolescent**
 
 * Accouchement compliqué, instrumentalisé
 * Difficulté à tourner la tête d’un côté
@@ -20,7 +20,7 @@ Du nourrisson à l'adolescent
 
 ## **Périnatalité**
 
-Femmes du pré au post natal
+**Femmes du pré au post natal**
 
 * Douleurs dorsales et ligamentaires durant la grossesse
 * En préparation à l’accouchement
@@ -34,7 +34,7 @@ Femmes du pré au post natal
 
 ## **Ostéopathie générale**
 
-Adulte
+**Adulte**
 
 * Dysfonctions de l'appareil musculo-squelettiques
 * Dysfonctions digestives
