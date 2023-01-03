@@ -30,9 +30,9 @@
 
 ## **Ostéopathie générale** adulte 
 
-* Troubles fonctionnels
-* Dysfonctions musculo-squelettiques
-* Lorem ipsum
+* Dysfonctions de l'appareil musculo-squelettiques
+* Dysfonctions viscérales: trouble digestif, douleurs de la sphère gynécologique  
+* Suite de chocs et accidents
 
 <div class="cta">
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
