@@ -1,19 +1,7 @@
 +++
 
 +++
-## **Femmes** du pré au post natal
-
-* Douleurs dorsales et ligamentaires durant la grossesse
-* En préparation à l’accouchement
-* Douleurs persistantes suite à l’accouchement
-* Dysfonctions du périnée (douleur, pesanteur, fuites) et avant toute rééducation en physiothérapie
-* Lors de difficultés à tomber enceinte
-
-<div class="cta">
-<a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
-</div>
-
-## **Enfants**
+## **Pédiatrie** du nourrisson à l'adolescent 
 
 * Accouchement compliqué, instrumentalisé
 * Difficulté à tourner la tête d’un côté
@@ -26,14 +14,25 @@
 
 <small>Pour toute douleur musculosquelettique de l’enfant ou **en parallèle à un suivi médical** : torticolis congénital, luxation congénitale de hanches, déformations des pieds (varus, pieds bots), reflux gastro-œsophagien, asymétrie faciale secondaire à une crâniosténose, etc.</small>
 
-<div class="cta"> <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities" target="_blank" class="btn">Prendre RDV pour un bébé</a> <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities" target="_blank" class="btn">Prendre RDV pour un enfant</a>
+<div class="cta"> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un bébé</a> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un enfant</a> </div>
+
+## **Périnatalité** du pré au post natal
+
+* Douleurs dorsales et ligamentaires durant la grossesse
+* En préparation à l’accouchement
+* Douleurs persistantes suite à l’accouchement
+* Dysfonctions du périnée (douleur, pesanteur, fuites) et avant toute rééducation en physiothérapie
+* Lors de difficultés à tomber enceinte
+
+<div class="cta">
+<a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
 </div>
 
-## **Adultes**
+## **Ostéopathie générale** adulte 
 
-* Troubles fonctionnels 
+* Troubles fonctionnels
 * Dysfonctions musculo-squelettiques
-* Lorem ipsum 
+* Lorem ipsum
 
 <div class="cta">
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
