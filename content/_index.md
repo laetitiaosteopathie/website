@@ -1,7 +1,7 @@
 +++
 
 +++
-## **Pédiatrie** du nourrisson à l'adolescent 
+## **Pédiatrie** · du nourrisson à l'adolescent 
 
 * Accouchement compliqué, instrumentalisé
 * Difficulté à tourner la tête d’un côté
@@ -16,7 +16,7 @@
 
 <div class="cta"> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un bébé</a> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un enfant</a> </div>
 
-## **Périnatalité** femmes du pré au post natal
+## **Périnatalité** · femmes du pré au post natal
 
 * Douleurs dorsales et ligamentaires durant la grossesse
 * En préparation à l’accouchement
@@ -30,7 +30,7 @@
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
 </div>
 
-## **Ostéopathie générale** adulte 
+## **Ostéopathie générale** · adulte 
 
 * Dysfonctions de l'appareil musculo-squelettiques
 * Dysfonctions viscérales: trouble digestif, douleurs de la sphère gynécologique  
