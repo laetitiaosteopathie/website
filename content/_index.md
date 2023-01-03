@@ -54,7 +54,9 @@ Mon intérêt pour l’ostéopathie pédiatrique et la périnatalité s’est d�
 
 #### **Formation continue** 
 
-Je me forme continuellement dans le domaine ..... . Je participe actuellement à un module du CAS en périnatalité aux HUG (séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans) ainsi qu'à diverses formations continues pédiatriques proposées par SuisseOsteo.
+Je me forme continuellement dans le domaine ..... . Je participe actuellement à un module du CAS en périnatalité aux HUG (séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans) ainsi qu'à diverses formations continues pédiatriques.
+
+Je suis affiliée à la [Fédération Suisse d’ostéopathie](https://www.fso-svo.ch/) (Suisse Ostéo) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique (SEROPP).
 
 </div>
 </div>
@@ -64,9 +66,7 @@ Je me forme continuellement dans le domaine ..... . Je participe actuellement à
 **CHF 120** par consultation <br/>
 _Paiement en espèce ou twint possible_
 
-Les consultations sont remboursées par toutes les assurances complémentaires (excepté EGK) selon les conditions établies dans votre contrat. Merci de vous adresser directement auprès de votre assurance pour connaître les détails de leurs prestations.
-
-Je suis affiliée au RME, à la [Fédération Suisse d’ostéopathie](https://www.fso-svo.ch/) (Suisse Ostéo) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique (SEROPP)
+Je suis affiliée au registre des médecines empiriques (RME). Mes consultations sont remboursées par toutes les assurances complémentaires (excepté EGK) selon les conditions établies dans votre contrat. Merci de vous adresser directement auprès de votre assurance pour connaître les détails de leurs prestations.
 
 <footer class="container-full">
 
