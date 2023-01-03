@@ -2,9 +2,10 @@
 
 +++
 ## **Pédiatrie**
+
 ### Du nourrisson à l'adolescent
 
-* Accouchement compliqué, instrumentalisé
+* Accouchement compliqué ou instrumentalisé
 * Difficulté à tourner la tête d’un côté
 * Troubles de la succion, difficulté à l’allaitement
 * Troubles digestifs : constipations, coliques, régurgitations abondantes
@@ -18,6 +19,7 @@
 <div class="cta"> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un bébé</a> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un enfant</a> </div>
 
 ## **Périnatalité**
+
 ### Femmes du pré au post natal
 
 * Douleurs dorsales et ligamentaires durant la grossesse
@@ -31,6 +33,7 @@
 </div>
 
 ## **Ostéopathie générale**
+
 ### Adulte
 
 * Dysfonctions de l'appareil musculo-squelettiques
