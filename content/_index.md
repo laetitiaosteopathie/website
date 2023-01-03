@@ -50,6 +50,8 @@ Centre autour de la famille, chemin de la Brume 2, 1110 Morges
 
 # Laetitia Jordan
 
+<div style="max-width:60em;margin:0 auto;padding:1em;">
+
 <img src="/uploads/header_laetitia.jpg"/>
 
 Je crois que chaque enfant devrait avoir les mêmes opportunités de développement psychomoteur et d’apprentissage dès la naissance. En prenant en compte sa relation à l'environnement, j'interviens sur les troubles fonctionnels que le nourrisson ou l'enfant peut rencontrer au cours de son développement. 
