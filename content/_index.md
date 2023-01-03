@@ -24,6 +24,8 @@
 * Dysfonctions du périnée (douleur, pesanteur, fuites) et avant toute rééducation en physiothérapie
 * Lors de difficultés à tomber enceinte
 
+<small>Pour toute autre douleur ou trouble fonctionnel.</small>
+
 <div class="cta">
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
 </div>
@@ -33,6 +35,8 @@
 * Dysfonctions de l'appareil musculo-squelettiques
 * Dysfonctions viscérales: trouble digestif, douleurs de la sphère gynécologique  
 * Suite de chocs et accidents
+
+<small>Pour toute autre douleur ou trouble fonctionnel.</small>
 
 <div class="cta">
 <a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
