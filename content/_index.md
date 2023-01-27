@@ -52,13 +52,12 @@ Rue du centre 9, 1110 Morges (dès le 1er mars 2023)
 
 <img src="/uploads/header_laetitia.jpg"/>
 
-<br>
 Diplômée d'un Master of Science HES⁠-⁠SO en Ostéopathie. La collaboration avec le corps médical et d’autres professionnels de la santé est intégrée dans ma pratique afin de proposer une prise en charge adaptée à chaque situation.
 
 Je suis affiliée à la Fédération Suisse d’ostéopathie [(Suisse Ostéo)](https://www.fso-svo.ch/) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique [(SEROPP)](https://seropp.org/).
 
 #### **Spécialisation en pédiatrie et périnatalité**
-<br>
+
 J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement. 
 
 Dans le cadre du Master en ostéopathie à la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/), j'ai effectué un stage dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève.
