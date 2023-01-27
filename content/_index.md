@@ -53,7 +53,7 @@ Rue du centre 9, 1110 Morges (dès le 1er mars 2023)
 <img src="/uploads/header_laetitia.jpg"/>
 
 <br>
-La collaboration avec le corps médical et d’autres professionnels de la santé est intégrée dans ma pratique afin de proposer une prise en charge adaptée à chaque situation.
+Diplômée d'un Master of Science HES⁠-⁠SO en Ostéopathie. La collaboration avec le corps médical et d’autres professionnels de la santé est intégrée dans ma pratique afin de proposer une prise en charge adaptée à chaque situation.
 
 Je suis affiliée à la Fédération Suisse d’ostéopathie [(Suisse Ostéo)](https://www.fso-svo.ch/) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique [(SEROPP)](https://seropp.org/).
 
