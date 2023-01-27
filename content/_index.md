@@ -1,8 +1,8 @@
 +++
 
 +++
-Chemin de la Brume 2, 1110 Morges
-Rue du centre 9, 1110 Morges (dès le 1er mars 2023)
+* Chemin de la Brume 2, 1110 Morges
+* (dès le 1er mars 2023) Rue du centre 9, 1110 Morges 
 
 ## **Pédiatrie**
 
