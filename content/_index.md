@@ -100,7 +100,7 @@ Entre 8h et 18h ou via Whatsapp <br/>
 
   #### Cabinet ostéopathique 
 
-Rue du centre 9  <br/>  1110 Morges  <br/>  [Prendre RDV](https://progenda.be/calendars/jordan-cossonay-laetitia-osteopathe-cossonay)
+Rue du centre 9  <br/>  1110 Morges  <br/>  [Prendre RDV](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
 
 </div>
 <div>
