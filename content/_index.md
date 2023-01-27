@@ -1,7 +1,8 @@
 +++
 
 +++
-<align="center> Centre autour de la famille, chemin de la Brume 2, 1110 Morges </align>
+<align="center> Chemin de la Brume 2, 1110 Morges </align>
+<align="center> Rue du centre 9, 1110 Morges (dès le 1er mars 2023)</align>
 
 ## **Pédiatrie**
 
