@@ -40,9 +40,8 @@ Rue du centre 9, 1110 Morges (dès le 1er mars 2023)
 ### Adulte
 
 * Dysfonctions de l'appareil musculo-squelettiques
-* Dysfonctions digestives
-* Douleurs de la sphère gynécologique
-* Suite de chocs et accidents
+* Dysfonctions viscérales
+* Suite à des des chutes ou des accidents
 * Autres douleurs ou troubles fonctionnels
 
 <div class="cta">
@@ -53,23 +52,22 @@ Rue du centre 9, 1110 Morges (dès le 1er mars 2023)
 
 <img src="/uploads/header_laetitia.jpg"/>
 
-Je crois qu’intervenir durant les stades précoces du développement, là où les acquisitions sont les plus nombreuses, permet d’égaliser les chances d’apprentissage et de développement durant l’enfance et par la suite, l'adaptation dans la vie adulte.
+J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement. 
 
-J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement.
+La collaboration avec le corps médical et d’autres professionnels de la santé est intégrée dans ma pratique afin de proposer une prise en charge adaptée à chaque situation.
 
-La collaboration avec le corps médical et d’autres professionnels de la santé m’est essentielle afin de proposer une prise en charge adaptée à chaque situation.
+J’exerce l’ostéopathie en collaboration avec [Line Rossier](https://www.osteo-line.ch/). 
 
-J’exerce actuellement l’ostéopathie en collaboration avec [Line Rossier](https://www.osteo-line.ch/) au [centre Autour de la famille](https://autourdelafamille.ch/osteopathie/) à Morges ainsi qu’au centre ostéopathique de Cossonay.
+Je suis affiliée à la Fédération Suisse d’ostéopathie [(Suisse Ostéo)](https://www.fso-svo.ch/) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique [(SEROPP)](https://seropp.org/).
 
-#### **Formation continue**
+
+#### **Spécialisation en pédiatrie et périnatalité**
 
 Dans le cadre de mon Master en ostéopathie à la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/), j'ai effectué un stage dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève.
 
-Par la suite, je me suis spécialisée de 2021 à 2022 en ostéopathie périnatale et pédiatrique à Paris ([OPP formation](https://osteopathie-perinatale-pediatrique.com/)).
+Par la suite, je me suis spécialisée en ostéopathie périnatale et pédiatrique à Paris ([OPP formation](https://osteopathie-perinatale-pediatrique.com/)).
 
-Je participe actuellement à un séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans aux [HUG](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) ainsi qu'à diverses formations continues pédiatriques.
-
-Je suis affiliée à la Fédération Suisse d’ostéopathie [(Suisse Ostéo)](https://www.fso-svo.ch/) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique [(SEROPP)](https://seropp.org/).
+Je participe actuellement au séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans aux [HUG](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) ainsi qu'à diverses formations continues pédiatriques.
 
 </div>
 </div>
@@ -102,16 +100,16 @@ Entre 8h et 18h ou via Whatsapp <br/>
 
 <div>
 
-#### Centre autour de la famille
+#### Cabinet ostéopathique 
 
-Chemin de la Brume 2 <br/>  1110 Morges <br/>  [Prendre RDV à Morges](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
+Rue du centre 9  <br/>  1110 Morges  <br/>  [Prendre RDV au cabinet](https://progenda.be/calendars/jordan-cossonay-laetitia-osteopathe-cossonay)
 
 </div>
 <div>
+#### Centre autour de la famille
 
-#### Centre ostéopathique de Cossonay
+Chemin de la Brume 2 <br/>  1110 Morges <br/>  [Prendre RDV à Autour de la famille](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
 
-Route d’Aubonne 2  <br/>  1304 Cossonay  <br/>  [Prendre RDV à Cossonay](https://progenda.be/calendars/jordan-cossonay-laetitia-osteopathe-cossonay)
 
 </div>
 
