@@ -1,7 +1,7 @@
 +++
 
 +++
-Centre autour de la famille, chemin de la Brume 2, 1110 Morges
+<align="center> Centre autour de la famille, chemin de la Brume 2, 1110 Morges </align>
 
 ## **Pédiatrie**
 
