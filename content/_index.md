@@ -105,9 +105,9 @@ Rue du centre 9  <br/>  1110 Morges  <br/>  [Prendre RDV](https://progenda.be/ca
 </div>
 <div>
 
-  #### Centre autour de la famille
+  #### Autour de la famille
 
-Chemin de la Brume 2 <br/>  1110 Morges <br/>  [Prendre RDV](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
+Chemin de la Brume 2 <br/>  1110 Morges <br/> [Prendre RDV](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
 
 
 </div>
