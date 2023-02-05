@@ -2,7 +2,9 @@
 
 +++
 * Chemin de la Brume 2, 1110 Morges
-* (dès le 1er mars 2023) Rue du centre 9, 1110 Morges 
+* (dès le 1er mars 2023) Rue du centre 9, 1110 Morges
+
+<div class="cta"> <a href="[_https://app.terap.ch/booking/830 _](https://app.terap.ch/booking/830 "https://app.terap.ch/booking/83")" target="_blank" class="btn">Prendre RDV_</a> <a href="_[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")_" target="_blank" class="btn">_Prendre RDV</a> </div>
 
 ## **Pédiatrie**
 
@@ -19,8 +21,6 @@
 
 <small>Pour toute douleur musculosquelettique de l’enfant ou **en parallèle à un suivi médical** : torticolis congénital, luxation congénitale de hanches, déformations des pieds (varus, pieds bots), scoliose, reflux gastro-œsophagien, asymétrie faciale secondaire à une crâniosténose, trouble du tonus, etc.</small>
 
-<div class="cta"> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un bébé</a> <a href="[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV pour un enfant</a> </div>
-
 ## **Périnatalité**
 
 ### Femmes du pré au post natal
@@ -31,10 +31,6 @@
 * Dysfonctions du périnée (douleur, pesanteur, fuites) et avant toute rééducation en physiothérapie
 * Lors de difficultés à tomber enceinte
 
-<div class="cta">
-<a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
-</div>
-
 ## **Ostéopathie générale**
 
 ### Adulte
@@ -43,10 +39,6 @@
 * Dysfonctions viscérales
 * Suite à des des chutes ou des accidents
 * Autres douleurs ou troubles fonctionnels
-
-<div class="cta">
-<a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges" target="_blank" class="btn">Prendre RDV</a>
-</div>
 
 # Laetitia Jordan
 
@@ -58,7 +50,7 @@ Je suis affiliée à la Fédération Suisse d’ostéopathie [(Suisse Ostéo)](h
 
 #### **Spécialisation en pédiatrie et périnatalité**
 
-J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement. 
+J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement.
 
 Dans le cadre du Master en ostéopathie à la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/), j'ai effectué un stage dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève.
 
@@ -97,18 +89,16 @@ Entre 8h et 18h ou via Whatsapp <br/>
 
 <div>
 
-
-  #### Cabinet ostéopathique 
+#### Cabinet ostéopathique
 
 Rue du centre 9  <br/>  1110 Morges  <br/>  [Prendre RDV](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
 
 </div>
 <div>
 
-  #### Autour de la famille
+#### Autour de la famille
 
 Chemin de la Brume 2 <br/>  1110 Morges <br/> [Prendre RDV](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
-
 
 </div>
 
