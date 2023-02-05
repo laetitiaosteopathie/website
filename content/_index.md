@@ -46,19 +46,17 @@
 
 <img src="/uploads/header_laetitia.jpg"/>
 
-Diplômée d'un Master of Science HES⁠-⁠SO en Ostéopathie. La collaboration avec le corps médical et d’autres professionnels de la santé est intégrée dans ma pratique afin de proposer une prise en charge adaptée à chaque situation.
+J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement. A l'âge adulte, .....
+
+Afin de proposer une prise en charge adaptée à chaque situation, je collabore activement avec d’autres professionnels de la santé. 
 
 Je suis affiliée à la Fédération Suisse d’ostéopathie [(Suisse Ostéo)](https://www.fso-svo.ch/) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique [(SEROPP)](https://seropp.org/).
 
 #### **Spécialisation en pédiatrie et périnatalité**
 
-J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement.
+Diplômée d'un Master of Science HES⁠-⁠SO en Ostéopathie de la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/), j'ai effectué durant ma formation un stage dans l’unité de développement pédiatrique des [Hôpitaux universitaires de Genève](https://www.hug.ch/enfants-ados/developpement-unite-hospitaliere-du-developpement) (HUG). Cette expérience m'a convaincue de poursuivre une spécialisation en ostéopathie périnatale et pédiatrique à Paris ([OPP formation](https://osteopathie-perinatale-pediatrique.com/)).
 
-Dans le cadre du Master en ostéopathie à la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/), j'ai effectué un stage dans l’unité de développement pédiatrique des Hôpitaux universitaires de Genève.
-
-Par la suite, je me suis spécialisée en ostéopathie périnatale et pédiatrique à Paris ([OPP formation](https://osteopathie-perinatale-pediatrique.com/)).
-
-Je participe actuellement au séminaire d’observation et d’évaluation du développement de l’enfant 0-3 ans aux [HUG](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) ainsi qu'à diverses formations continues pédiatriques.
+Je participe actuellement au [séminaire](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) d’observation et d’évaluation du développement de l’enfant 0-3 ans aux HUG ainsi qu'à diverses formations continues pédiatriques.
 
 </div>
 </div>
@@ -68,7 +66,7 @@ Je participe actuellement au séminaire d’observation et d’évaluation du d�
 **CHF 120** par consultation <br/>
 _Paiement en espèce ou twint possible_
 
-Je suis affiliée au registre des médecines empiriques (RME). Mes consultations sont remboursées par toutes les assurances complémentaires (excepté EGK) selon les conditions établies dans votre contrat. Merci de vous adresser directement auprès de votre assurance pour connaître les détails de leurs prestations.
+Je suis affiliée au registre des médecines empiriques (RME). Mes consultations sont remboursées par toutes les assurances complémentaires (excepté EGK) selon les conditions établies dans votre contrat. 
 
 <footer class="container-full">
 
