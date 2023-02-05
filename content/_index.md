@@ -46,7 +46,7 @@
 
 <img src="/uploads/header_laetitia.jpg"/>
 
-J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement. A l'âge adulte, .....
+J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement. + femme + adulte, .....
 
 Afin de proposer une prise en charge adaptée à chaque situation, je collabore activement avec d’autres professionnels de la santé. 
 
