@@ -1,8 +1,8 @@
 +++
 
 +++
-* Chemin de la Brume 2, 1110 Morges
-* (dès le 1er mars 2023) Rue du centre 9, 1110 Morges
+* Cabinet ostéopathique, Rue centrale 9, 1110 Morges (Dès le 1er mars 2023) 
+* Autour de la famille, Chemin de la Brume 2, 1110 Morges
 
 <div class="cta"> <a href="[_https://app.terap.ch/booking/830 _](https://app.terap.ch/booking/830 "https://app.terap.ch/booking/83")" target="_blank" class="btn">Prendre RDV_</a> <a href="_[https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")_" target="_blank" class="btn">_Prendre RDV</a> </div>
 
