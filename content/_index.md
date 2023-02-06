@@ -1,13 +1,49 @@
 +++
 
 +++
-* Cabinet ostéopathique, Rue centrale 9, 1110 Morges   
-  (Dès le 1er mars 2023)
-* Autour de la famille, Chemin de la Brume 2, 1110 Morges  
-  _Uniquement le lundi après-midi dès le 1er mars 2023_ 
 
-<div class="cta"> <a href="[_https://app.terap.ch/booking/830 _](https://app.terap.ch/booking/830 "https://app.terap.ch/booking/83")" target="_blank" class="btn">Prendre RDV_</a> <a href=" [_zttps://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities_](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities "https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilities")" target="_blank" class="btn">Prendre RDV</a> </div>
 
+<div class="container-full">
+<div class="boxes">
+<div class="box">
+<div class="box-content">
+
+### Cabinet ostéopathique
+
+Rue centrale 9<br/>
+1110 Morges<br/>
+
+ <a href="https://app.terap.ch/booking/830" target="_blank" class="btn">Prendre RDV</a> 
+
+_(Dès le 1er mars 2023)_
+
+</div>
+</div>
+
+<div class="box">
+<div class="box-content">
+  
+### Autour de la famille
+
+Chemin de la Brume 2<br/>
+1110 Morges  
+
+<a href="https://progenda.be/calendars/jordan-laetitia-osteopathe-morges/availabilitie" target="_blank" class="btn">Prendre RDV</a> 
+
+_Uniquement le lundi après-midi dès le 1er mars 2023_ 
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="blob">
+  
+  <svg fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1" clip-rule="evenodd" version="1" viewBox="0 0 455 455" class="blob-shape">
+  <path fill="#ffccbe77" fill-rule="nonzero" d="M211 392c-59-8-94-55-105-69-12-16-65-92-32-165 31-70 123-98 195-78 67 20 128 83 125 160-3 95-102 163-183 152z"/>
+  </svg>
+  
 ## **Pédiatrie**
 
 ### Du nourrisson à l'adolescent
@@ -22,6 +58,15 @@
 * Avant ou pendant un traitement orthodontique
 
 <small>Pour toute douleur musculosquelettique de l’enfant ou **en parallèle à un suivi médical** : torticolis congénital, luxation congénitale de hanches, déformations des pieds (varus, pieds bots), scoliose, reflux gastro-œsophagien, asymétrie faciale secondaire à une crâniosténose, trouble du tonus, etc.</small>
+  
+</div>
+
+<div class="blob second-blob">
+
+<svg fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1" clip-rule="evenodd" version="1" viewBox="0 0 455 455" class="blob-shape">
+<path fill="#ffccbe77" fill-rule="nonzero" d="M211 392c-59-8-94-55-105-69-12-16-65-92-32-165 31-70 123-98 195-78 67 20 128 83 125 160-3 95-102 163-183 152z"/>
+</svg>
+
 
 ## **Périnatalité**
 
@@ -33,6 +78,15 @@
 * Dysfonctions du périnée (douleur, pesanteur, fuites) et avant toute rééducation en physiothérapie
 * Lors de difficultés à tomber enceinte
 
+</div>
+
+<div class="blob">
+
+<svg fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1" clip-rule="evenodd" version="1" viewBox="0 0 455 455" class="blob-shape">
+<path fill="#ffccbe77" fill-rule="nonzero" d="M211 392c-59-8-94-55-105-69-12-16-65-92-32-165 31-70 123-98 195-78 67 20 128 83 125 160-3 95-102 163-183 152z"/>
+</svg>
+
+
 ## **Ostéopathie générale**
 
 ### Adulte
@@ -42,15 +96,21 @@
 * Suite à des des chutes ou des accidents
 * Autres douleurs ou troubles fonctionnels
 
+</div>
+
+<div class="cv">
+  
 # Laetitia Jordan
 
-<img src="/uploads/header_laetitia.jpg"/>
+<img src="/uploads/header_laetitia.jpg" align="left"/>
 
-J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement. + femme + adulte, .....
+J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement.
 
 Afin de proposer une prise en charge adaptée à chaque situation, je collabore activement avec d’autres professionnels de la santé. 
 
 Je suis affiliée à la Fédération Suisse d’ostéopathie [(Suisse Ostéo)](https://www.fso-svo.ch/) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique [(SEROPP)](https://seropp.org/).
+
+<div style="clear:both;"></div>
 
 #### **Spécialisation en pédiatrie et périnatalité**
 
@@ -59,7 +119,7 @@ Diplômée d'un Master of Science HES⁠-⁠SO en Ostéopathie de la [Haute éco
 Je participe actuellement au [séminaire](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) d’observation et d’évaluation du développement de l’enfant 0-3 ans aux HUG ainsi qu'à diverses formations continues pédiatriques.
 
 </div>
-</div>
+
 
 ## Tarifs
 
@@ -91,7 +151,7 @@ Entre 8h et 18h ou via Whatsapp <br/>
 
 #### Cabinet ostéopathique
 
-Rue du centre 9  <br/>  1110 Morges  <br/>  [Prendre RDV](https://progenda.be/calendars/jordan-laetitia-osteopathe-morges)
+Rue du centre 9  <br/>  1110 Morges  <br/>  [Prendre RDV](https://app.terap.ch/booking/830)
 
 </div>
 <div>

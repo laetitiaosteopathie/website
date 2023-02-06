@@ -32,7 +32,7 @@ body{
   font-size: calc(0.8em + 0.5vw);
   font-size: -webkit-calc(80% + 0.5vw);
   background-color: var(--melon);
-  background: linear-gradient(var(--melon), var(--white) 40%, var(--white));
+  background: linear-gradient(var(--melon), var(--white) 55vh, var(--white));
   margin: 0;
   color: var(--gunmetal);
 }
@@ -50,7 +50,7 @@ main{
 	max-width: 100%;
 	grid-template-columns:
 	[full-start] minmax(1em, 1fr)
-	[main-start] minmax(0, 40em) [main-end]
+	[main-start] minmax(0, 50em) [main-end]
 	minmax(1em, 1fr) [full-end];
   }
   .container>*{
@@ -89,7 +89,7 @@ header{
   margin-bottom: 0;
   padding: 0 1em;
 }
-header h3{
+header h2{
   text-align: center;
 }
 header h1{
@@ -149,7 +149,8 @@ header h1 i{
 }
 
 .boxes .box{
-  background-color: var(--melon);
+  text-align: center;
+  /* background-color: var(--melon); */
 }
 .box-image{
   width: 100%;
@@ -157,6 +158,37 @@ header h1 i{
 }
 .box-content{
   padding: 1em;
+}
+.box-content h3{
+  margin-top: 0;
+}
+.box-content .btn{
+  margin: 0.4em 0;
+  display: inline-block;
+}
+
+.blob{
+  position: relative;
+  margin: 5vh 0 20vh; 
+  padding-left: 5em;
+}
+.blob .blob-shape{
+  
+  position: absolute;
+  z-index:-8;
+  top:-10vh;
+  left:-10vw;
+  width: auto;
+  max-height: 50vh;
+}
+
+.second-blob .blob-shape{
+  background: url("../bitmap.svg?border=brun");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.second-blob{
+  margin-left: 15vw;
 }
 
 .cta{
@@ -171,14 +203,14 @@ header h1 i{
 }
 
 .cv{
-  max-width: 60em;
+  /* max-width: 60em;
   margin: 2em auto;
-  padding: 1em; 
+  padding: 1em;  */
 }
 .cv img{
   float:left;
   max-width: 100%;
-  width: clamp(600px, 30vw, 600px);
+  width: clamp(200px, 30vw, 400px);
   margin: 0.4em 2.5em 1.6em 0;
 }
 
@@ -238,8 +270,8 @@ h4, .h4 {
   font-size: -webkit-calc(80% + 1vw);
   font-weight: normal;
   line-height: 1.3em;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0.6em;
+  margin-bottom: 0.5em;
 }
 .center{
 	text-align: center;
@@ -272,6 +304,44 @@ p + p, p + h2, p + ul, ul + p, h2 + p, h3 + ol, h3 + ul, h2 + ol, h2 + ul{
   margin-bottom: 0.4em;
 }
 
+/* 
+.bg-animation {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  background: #F2F2F2;
+  overflow: hidden;
+}
+.bg-animation svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  animation: orbit 30s linear infinite;
+}
+.bg-animation svg path {
+  fill: hsla(13, 100%, 87%, 0.3);
+}
+.bg-animation svg:nth-child(2) {
+  width: 80%;
+  animation: orbit 30s linear infinite;
+}
+.bg-animation svg:nth-child(3) {
+  width: 60%;
+  animation: orbit 40s linear infinite;
+}
+.bg-animation svg:nth-child(4) {
+  width: 30%;
+  animation: orbit 28s linear infinite;
+}
 
-
-
+@keyframes orbit {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+ */
