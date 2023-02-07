@@ -66,7 +66,7 @@ _Uniquement le lundi après-midi dès le 1er mars 2023_
 
 ## **Périnatalité**
 
-### Femmes du pré au post natal
+### Femme du pré au post natal
 
 * Douleurs dorsales et ligamentaires durant la grossesse
 * En préparation à l’accouchement
@@ -84,7 +84,7 @@ _Uniquement le lundi après-midi dès le 1er mars 2023_
 
 ## **Ostéopathie générale**
 
-### Adultes
+### Adulte
 
 * Dysfonctions de l'appareil musculo-squelettiques
 * Dysfonctions viscérales
