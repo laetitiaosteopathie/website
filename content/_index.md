@@ -26,7 +26,7 @@ _(Dès le 1er mars 2023)_
 Chemin de la Brume 2<br/>
 1110 Morges
 
-<a href="[https://app.terap.ch/booking/830](https://app.terap.ch/booking/830 "https://app.terap.ch/booking/830")" target="_blank" class="btn">Prendre RDV</a>
+<a href="https://app.terap.ch/booking/830" target="_blank" class="btn">Prendre RDV</a>
 
 _Uniquement le lundi après-midi dès le 1er mars 2023_
 
