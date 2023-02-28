@@ -13,8 +13,6 @@ Rue centrale 9<br/>
 
 <a href="https://app.terap.ch/booking/830" target="_blank" class="btn">Prendre RDV</a>
 
-_(Dès le 1er mars 2023)_
-
 </div>
 </div>
 
@@ -28,7 +26,7 @@ Chemin de la Brume 2<br/>
 
 <a href="https://app.terap.ch/booking/830" target="_blank" class="btn">Prendre RDV</a>
 
-_Uniquement le lundi après-midi dès le 1er mars 2023_
+_Uniquement le lundi après-midi_ 
 
 </div>
 </div>
