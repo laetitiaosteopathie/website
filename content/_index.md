@@ -1,5 +1,5 @@
 +++
-
+title = 'Laetitia Jordan - Ostéopathe à Morges'
 +++
 <div class="container-full">
 <div class="boxes">

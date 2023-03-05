@@ -1,9 +1,13 @@
-baseURL = 'https://www.laetitiajordan.ch'
+baseURL = 'https://laetitiajordan.ch'
 languageCode = 'fr-ch'
-title = 'Laetitia Osteopathie'
+title = 'Laetitia Jordan - Ostéopathe à Morges'
 theme = 'laetitia'
 
+[params]
+  description = "Ostéopathie pédiatrique, périnatale et générale.Consultation pour les nourrissons, enfants, femmes enceintes et adultes. Prenez rendez-vous en ligne."
+ 
+ 
 [markup]
   [markup.goldmark]
-	[markup.goldmark.renderer]
-	  unsafe = true
+    [markup.goldmark.renderer]
+      unsafe = true
