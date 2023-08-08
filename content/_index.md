@@ -113,10 +113,19 @@ Je participe actuellement au [séminaire](https://www.hug.ch/sante-psychique-per
 
 </div>
 
+## Consultations à domicile
+
+Je me déplace sur demande à domicile dans le district de Morges pour des consultations d'ostéopathie pour bébés, enfants en âge pré-scolaire ou femmes enceintes.
+
+_La demande de RDV se fait par téléphone._
+
+
 ## Tarifs
 
-**CHF 120** par consultation <br/>
-_Paiement en espèce ou twint possible_
+**CHF 120.-** par consultation <br/>
+_Paiement à la suite de la séance en espèce ou par code QR via e-banking._
+
+Lors d’un déplacement, selon la zone de consultation, des frais de **CHF 20.-** à **CHF 35.-** s’appliquent.
 
 Je suis affiliée au registre des médecines empiriques (RME). Mes consultations sont remboursées par toutes les assurances complémentaires (excepté EGK) selon les conditions établies dans votre contrat.
 
