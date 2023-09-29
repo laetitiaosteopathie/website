@@ -8,12 +8,10 @@ title = 'Laetitia Jordan - Ostéopathe à Morges'
 
 ### Cabinet ostéopathique
 
-Rue centrale 9<br/>
+Rue des Fossés 21<br/>
 1110 Morges<br/>
 
 <a href="https://app.terap.ch/booking/830" target="_blank" class="btn">Prendre RDV</a>
-
-_(rue des Fossés 21 dès le 1er octobre)_ 
 
 </div>
 </div>
@@ -154,7 +152,7 @@ Entre 8h et 18h ou via Whatsapp <br/>
 
 #### Cabinet ostéopathique
 
-Rue centrale 9  <br/>  1110 Morges  <br/>  [Prendre RDV](https://app.terap.ch/booking/830)
+Rue des Fossés 21  <br/>  1110 Morges  <br/>  [Prendre RDV](https://app.terap.ch/booking/830)
 
 </div>
 <div>
