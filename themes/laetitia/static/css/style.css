@@ -68,7 +68,7 @@ a{
   color: var(--rosy-brown);
 }
 
-a.btn, footer a{
+a.btn, footer a:not([rel="nofollow"]){
   text-decoration: none;
   color: var(--white);
   box-sizing: border-box;
@@ -78,7 +78,7 @@ a.btn, footer a{
   background-color: var(--gunmetal);  
   border: 3px solid var(--gunmetal);
 }
-a.btn:hover, footer a:hover{
+a.btn:hover, footer a:hover:not([rel="nofollow"]){
   background-color: var(--gunmetalplus);  
   border: 3px solid var(--gunmetalplus);
 }

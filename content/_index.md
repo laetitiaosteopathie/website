@@ -152,14 +152,15 @@ Entre 8h et 18h ou via Whatsapp <br/>
 
 #### Cabinet ostéopathique
 
-Rue des Fossés 21  <br/>  1110 Morges  <br/>  [Prendre RDV](https://app.terap.ch/booking/830)
-
+Rue des Fossés 21  <br/>  1110 Morges  <br/>  [Prendre RDV](https://app.terap.ch/booking/830)<br/>
+<a href="/acces#cabinet-ostéopathique" rel="nofollow">Accessibilité</a>
 </div>
 <div>
 
 #### Autour de la famille
 
-Chemin de la Brume 2 <br/>  1110 Morges <br/> [Prendre RDV](https://app.terap.ch/booking/830)
+Chemin de la Brume 2 <br/>  1110 Morges <br/> [Prendre RDV](https://app.terap.ch/booking/830)<br/>
+<a href="/acces#autour-de-la-famille" rel="nofollow">Accessibilité</a>
 
 </div>
 
