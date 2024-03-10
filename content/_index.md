@@ -11,7 +11,7 @@ title = 'Laetitia Jordan - Ostéopathe à Morges'
 Rue des Fossés 21<br/>
 1110 Morges<br/>
 
-<a href="https://app.terap.ch/booking/830" target="_blank" class="btn">Prendre RDV</a>
+<a href="https://app.terap.ch/booking/830/664" target="_blank" class="btn">Prendre RDV</a>
 
 </div>
 </div>
@@ -24,7 +24,7 @@ Rue des Fossés 21<br/>
 Chemin de la Brume 2<br/>
 1110 Morges
 
-<a href="https://app.terap.ch/booking/830" target="_blank" class="btn">Prendre RDV</a>
+<a href="https://app.terap.ch/booking/830/663" target="_blank" class="btn">Prendre RDV</a>
 
 _Uniquement le jeudi_ 
 
@@ -97,14 +97,17 @@ _Uniquement le jeudi_
 
 <img src="/uploads/header_laetitia.jpg" align="left"/>
 
-Je suis affiliée à la Fédération Suisse d’ostéopathie [(FSO)](https://www.fso-svo.ch/ et membre de [leur cercle qualité](https://www.fso-svo.ch/fr/la-federation/qualite/lignes-directrices) pour la prise en charge ostéopathique des nouveau-nés et enfants. Je suis également membre de la Société Européenne de Recherche en ostéopathie pédiatrique et périnatale [(SEROPP)](https://seropp.org/).
+J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement.
 
+Afin de proposer une prise en charge adaptée à chaque situation, je collabore activement avec d’autres professionnels de la santé.
 
 <div style="clear:both;"></div>
 
 #### **Spécialisation en pédiatrie et périnatalité**
 
 Je participe actuellement au [séminaire d’observation et d’évaluation](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) du développement du bébé aux HUG ainsi qu’aux modules de la haute école de santé Fribourg en [ostéopathie et petite enfance](https://www.heds-fr.ch/fr/formation-continue/modules/tous-les-modules-de-formation/osteo-petite-enfance/) ainsi qu’en [relations thérapeutiques - modèles familiaux](https://www.heds-fr.ch/fr/formation-continue/modules/tous-les-modules-de-formation/osteopathie-relations-therapeutiques-modeles-familiaux/).
+
+Je suis affiliée à la Fédération Suisse d’ostéopathie [(FSO)](https://www.fso-svo.ch/ et membre de [leur cercle qualité](https://www.fso-svo.ch/fr/la-federation/qualite/lignes-directrices) pour la prise en charge ostéopathique des nouveau-nés et enfants. Je suis également membre de la Société Européenne de Recherche en ostéopathie pédiatrique et périnatale [(SEROPP)](https://seropp.org/).
 
 </div>
 
@@ -147,14 +150,14 @@ Entre 8h et 18h ou via Whatsapp <br/>
 
 #### Cabinet ostéopathique
 
-Rue des Fossés 21  <br/>  1110 Morges  <br/>  [Prendre RDV](https://app.terap.ch/booking/830)<br/>
+Rue des Fossés 21  <br/>  1110 Morges  <br/>  [Prendre RDV](https://app.terap.ch/booking/830/664)<br/>
 <a href="/acces#cabinet-ostéopathique" rel="nofollow">Accessibilité</a>
 </div>
 <div>
 
 #### Autour de la famille
 
-Chemin de la Brume 2 <br/>  1110 Morges <br/> [Prendre RDV](https://app.terap.ch/booking/830)<br/>
+Chemin de la Brume 2 <br/>  1110 Morges <br/> [Prendre RDV](https://app.terap.ch/booking/830/663)<br/>
 <a href="/acces#autour-de-la-famille" rel="nofollow">Accessibilité</a>
 
 </div>
