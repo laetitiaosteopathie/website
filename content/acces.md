@@ -28,6 +28,8 @@ _Le cabinet se trouve au 2e étage, dans des locaux partagés avec le cabinet m�
 _N’hésitez pas à me contacter si l’accessibilité des lieux n’est pas confortable pour vous._
 
 
+<a href="https://maps.app.goo.gl/xSuARpvW1e3K9ATx5" target="_blank" class="btn">Google Maps</a>
+
 
 
 </div>
@@ -48,6 +50,8 @@ _N’hésitez pas à me contacter si l’accessibilité des lieux n’est pas co
 _Le cabinet d’ostéopathie se trouve dans le centre Autour de la famille, au 1er étage. Il est accessible par ascenseur._
 
 _Vous pouvez laisser gratuitement votre véhicule au parking sous-terrain du centre Pré-Maudry._
+
+<a href="https://maps.app.goo.gl/8rTcnY9xEpkpWisG6" target="_blank" class="btn">Google Maps</a>
 
 </div>
 </div>
