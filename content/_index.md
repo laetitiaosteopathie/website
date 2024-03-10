@@ -97,19 +97,14 @@ _Uniquement le jeudi_
 
 <img src="/uploads/header_laetitia.jpg" align="left"/>
 
-J’interviens sur les troubles fonctionnels que le nourrisson ou l’enfant peut rencontrer au cours de son développement en tenant compte de sa relation à l'environnement.
+Je suis affiliée à la Fédération Suisse d’ostéopathie [(FSO)](https://www.fso-svo.ch/ et membre de [leur cercle qualité](https://www.fso-svo.ch/fr/la-federation/qualite/lignes-directrices) pour la prise en charge ostéopathique des nouveau-nés et enfants. Je suis également membre de la Société Européenne de Recherche en ostéopathie pédiatrique et périnatale [(SEROPP)](https://seropp.org/).
 
-Afin de proposer une prise en charge adaptée à chaque situation, je collabore activement avec d’autres professionnels de la santé.
-
-Je suis affiliée à la Fédération Suisse d’ostéopathie [(Suisse Ostéo)](https://www.fso-svo.ch/) ainsi qu’à la Société Européenne de Recherche en Ostéopathie Périnatale et Pédiatrique [(SEROPP)](https://seropp.org/).
 
 <div style="clear:both;"></div>
 
 #### **Spécialisation en pédiatrie et périnatalité**
 
-Diplômée d'un Master of Science HES⁠-⁠SO en Ostéopathie de la [Haute école de santé de Fribourg](https://www.heds-fr.ch/fr/formations/osteopathie-bilingue/la-profession/), j'ai effectué durant ma formation un stage dans l’unité de développement pédiatrique des [Hôpitaux universitaires de Genève](https://www.hug.ch/enfants-ados/developpement-unite-hospitaliere-du-developpement) (HUG). Cette expérience m'a convaincue de poursuivre une spécialisation en ostéopathie périnatale et pédiatrique à Paris ([OPP formation](https://osteopathie-perinatale-pediatrique.com/)).
-
-Je participe actuellement au [séminaire](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) d’observation et d’évaluation du développement de l’enfant 0-3 ans aux HUG ainsi qu'à diverses formations continues pédiatriques.
+Je participe actuellement au [séminaire d’observation et d’évaluation](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) du développement du bébé aux HUG ainsi qu’aux modules de la haute école de santé Fribourg en [ostéopathie et petite enfance](https://www.heds-fr.ch/fr/formation-continue/modules/tous-les-modules-de-formation/osteo-petite-enfance/) ainsi qu’en [relations thérapeutiques - modèles familiaux](https://www.heds-fr.ch/fr/formation-continue/modules/tous-les-modules-de-formation/osteopathie-relations-therapeutiques-modeles-familiaux/).
 
 </div>
 
@@ -122,7 +117,7 @@ _La demande de RDV se fait par téléphone._
 
 ## Tarifs
 
-**CHF 120.-** par consultation <br/>
+**CHF 130.-** par consultation <br/>
 _Paiement à la suite de la séance en espèce ou par code QR via e-banking._
 
 Lors d’un déplacement, selon la zone de consultation, des frais de **CHF 20.-** à **CHF 35.-** s’appliquent.
