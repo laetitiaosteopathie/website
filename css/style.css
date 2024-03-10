@@ -68,6 +68,10 @@ a{
   color: var(--rosy-brown);
 }
 
+footer a[rel="nofollow"]{
+  color: var(--gunmetal);
+}
+
 a.btn, footer a:not([rel="nofollow"]){
   text-decoration: none;
   color: var(--white);
