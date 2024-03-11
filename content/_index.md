@@ -107,7 +107,7 @@ Afin de proposer une prise en charge adaptée à chaque situation, je collabore 
 
 Je participe actuellement au [séminaire d’observation et d’évaluation](https://www.hug.ch/sante-psychique-perinatalite/espace-professionnel) du développement du bébé aux HUG ainsi qu’aux modules de la haute école de santé Fribourg en [ostéopathie et petite enfance](https://www.heds-fr.ch/fr/formation-continue/modules/tous-les-modules-de-formation/osteo-petite-enfance/) ainsi qu’en [relations thérapeutiques - modèles familiaux](https://www.heds-fr.ch/fr/formation-continue/modules/tous-les-modules-de-formation/osteopathie-relations-therapeutiques-modeles-familiaux/).
 
-Je suis affiliée à la Fédération Suisse d’ostéopathie [(FSO)](https://www.fso-svo.ch/ et membre de [leur cercle qualité](https://www.fso-svo.ch/fr/la-federation/qualite/lignes-directrices) pour la prise en charge ostéopathique des nouveau-nés et enfants. Je suis également membre de la Société Européenne de Recherche en ostéopathie pédiatrique et périnatale [(SEROPP)](https://seropp.org/).
+Je suis affiliée à la Fédération Suisse d’ostéopathie [(FSO)](https://www.fso-svo.ch/) et membre de [leur cercle qualité](https://www.fso-svo.ch/fr/la-federation/qualite/lignes-directrices) pour la prise en charge ostéopathique des nouveau-nés et enfants. Je suis également membre de la Société Européenne de Recherche en ostéopathie pédiatrique et périnatale [(SEROPP)](https://seropp.org/).
 
 </div>
 
