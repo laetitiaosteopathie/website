@@ -8,7 +8,7 @@ draft: false
 
 <div class="container-full">
 <div class="boxes">
-<div class="box">
+<!-- <div class="box">
 <div class="box-content">
 
 ## Cabinet ostéopathique
@@ -33,7 +33,7 @@ _N’hésitez pas à me contacter si l’accessibilité des lieux n’est pas co
 
 
 </div>
-</div>
+</div> -->
 
 <div class="box">
 <div class="box-content">
