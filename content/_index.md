@@ -6,13 +6,14 @@ title = 'Laetitia Jordan - Ostéopathe à Morges'
 <div class="box">
 <div class="box-content">
 
-### Cabinet ostéopathique
+### Cabinet de Lavigny
 
-Rue des Fossés 21<br/>
-1110 Morges<br/>
+Route d'Etoy 37<br/>
+1175 Lavigny 
 
-<a href="https://app.terap.ch/booking/830/664" target="_blank" class="btn">Prendre RDV</a>
+<a href="https://app.terap.ch/booking/830/942" target="_blank" class="btn">Prendre RDV</a>
 
+_Ouverture printemps 2025_
 </div>
 </div>
 
@@ -25,8 +26,6 @@ Chemin de la Brume 2<br/>
 1110 Morges
 
 <a href="https://app.terap.ch/booking/830/663" target="_blank" class="btn">Prendre RDV</a>
-
-_Uniquement le jeudi_ 
 
 </div>
 </div>
@@ -148,10 +147,10 @@ Entre 8h et 18h ou via Whatsapp <br/>
 
 <div>
 
-#### Cabinet ostéopathique
+#### Cabinet de Lavigny
 
-Rue des Fossés 21  <br/>  1110 Morges  <br/>  [Prendre RDV](https://app.terap.ch/booking/830/664)<br/>
-<a href="/acces#cabinet-ostéopathique" rel="nofollow">Accessibilité</a>
+ Route d'Etoy 37<br/> 1175 Lavigny  <br/>  [Prendre RDV](https://app.terap.ch/booking/830/942 )<br/><br/>
+ _Ouverture printemps 2025_
 </div>
 <div>
 
