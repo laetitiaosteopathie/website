@@ -4,7 +4,7 @@ content:
     type: collection
     path: 'content'
     view:
-      fields: [ title, published, date ]
+      fields: [ title, draft ]
     fields:
       - name: draft
         label: Draft
