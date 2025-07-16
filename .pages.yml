@@ -6,13 +6,10 @@ content:
     view:
       fields: [ title, published, date ]
     fields:
-      - name: published
-        label: Published
+      - name: draft
+        label: Draft
         type: boolean
-        default: true
-      - name: date
-        label: Date
-        type: date
+        default: false
       - name: title
         label: Title
         type: string
