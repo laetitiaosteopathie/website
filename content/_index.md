@@ -13,7 +13,6 @@ Route d'Etoy 37<br/>
 
 <a href="https://app.terap.ch/booking/830/942" target="_blank" class="btn">Prendre RDV</a>
 
-_Ouverture printemps 2025_
 </div>
 </div>
 
