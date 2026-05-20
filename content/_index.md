@@ -11,7 +11,7 @@ title = 'Laetitia Jordan - Ostéopathe à Morges'
 Route d'Etoy 37<br/>
 1175 Lavigny 
 
-<a href="https://app.terap.ch/booking/830/942" target="_blank" class="btn">Prendre RDV</a>
+<a href="https://perfactive.ch/list/laetitia-jordan" target="_blank" class="btn">Prendre RDV</a>
 
 </div>
 </div>
@@ -24,7 +24,7 @@ Route d'Etoy 37<br/>
 Chemin de la Brume 2<br/>
 1110 Morges
 
-<a href="https://app.terap.ch/booking/830/663" target="_blank" class="btn">Prendre RDV</a>
+<a href="https://perfactive.ch/list/laetitia-jordan" target="_blank" class="btn">Prendre RDV</a>
 
 </div>
 </div>
@@ -148,13 +148,13 @@ Entre 8h et 18h ou via Whatsapp <br/>
 
 #### Cabinet de Lavigny
 
- Route d'Etoy 37<br/> 1175 Lavigny  <br/>  [Prendre RDV](https://app.terap.ch/booking/830/942 )<br/><br/>
+ Route d'Etoy 37<br/> 1175 Lavigny  <br/>  [Prendre RDV](https://perfactive.ch/list/laetitia-jordan)<br/><br/>
 </div>
 <div>
 
 #### Autour de la famille
 
-Chemin de la Brume 2 <br/>  1110 Morges <br/> [Prendre RDV](https://app.terap.ch/booking/830/663)<br/>
+Chemin de la Brume 2 <br/>  1110 Morges <br/> [Prendre RDV](https://perfactive.ch/list/laetitia-jordan)<br/>
 <a href="/acces#autour-de-la-famille" rel="nofollow">Accessibilité</a>
 
 </div>
