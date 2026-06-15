@@ -6,10 +6,7 @@ title = 'Laetitia Jordan - Ostéopathe à Morges'
 <div class="box">
 <div class="box-content">
 
-### Cabinet de Lavigny
-
-Route d'Etoy 37<br/>
-1175 Lavigny 
+### Laetitia Jordan<br/>Ostéopathe
 
 <a href="https://perfactive.ch/list/laetitia-jordan" target="_blank" class="btn">Prendre RDV</a>
 
@@ -19,12 +16,10 @@ Route d'Etoy 37<br/>
 <div class="box">
 <div class="box-content">
 
-### Autour de la famille
+### Francesca Marchesini<br/>Ostéopathe 
 
-Chemin de la Brume 2<br/>
-1110 Morges
 
-<a href="https://perfactive.ch/list/laetitia-jordan" target="_blank" class="btn">Prendre RDV</a>
+<a href="https://perfactive.ch/laetitia-jordan/francesca-marchesini/book" target="_blank" class="btn">Prendre RDV</a>
 
 </div>
 </div>
@@ -135,29 +130,30 @@ Je suis affiliée au registre des médecines empiriques (RME). Mes consultations
 
 <div class="footer-container">
 
-<div>
+<!-- <div>
 
 #### En cas d’urgence
 
 Entre 8h et 18h ou via Whatsapp <br/>
 [077 448 61 34](tel:0041774486134)
 
-</div>
+</div> -->
 
 <div>
 
-#### Cabinet de Lavigny
+### Laetitia Jordan<br/>Ostéopathe 
 
- Route d'Etoy 37<br/> 1175 Lavigny  <br/>  [Prendre RDV](https://perfactive.ch/list/laetitia-jordan)<br/><br/>
+<a href="https://perfactive.ch/list/laetitia-jordan" target="_blank" class="btn">Prendre RDV</a>
+
 </div>
 <div>
 
-#### Autour de la famille
+### Francesca Marchesini<br/>Ostéopathe 
 
-Chemin de la Brume 2 <br/>  1110 Morges <br/> [Prendre RDV](https://perfactive.ch/list/laetitia-jordan)<br/>
-<a href="/acces#autour-de-la-famille" rel="nofollow">Accessibilité</a>
+<a href="https://perfactive.ch/laetitia-jordan/francesca-marchesini/book" target="_blank" class="btn">Prendre RDV</a>
 
 </div>
+
 
 </div>
 
