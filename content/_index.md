@@ -1,5 +1,5 @@
 +++
-title = 'Laetitia Jordan - Ostéopathe à Morges'
+title = 'Laetitia Jordan - Ostéopathe à Lavigny'
 +++
 <div class="container-full">
 <div class="boxes">
