@@ -130,14 +130,16 @@ Je suis affiliée au registre des médecines empiriques (RME). Mes consultations
 
 <div class="footer-container">
 
-<!-- <div>
+<div>
 
-#### En cas d’urgence
+#### Cabinet Familia
 
-Entre 8h et 18h ou via Whatsapp <br/>
-[077 448 61 34](tel:0041774486134)
+Route d’Etoy 37<br/>
+1175 Lavigny
 
-</div> -->
+[cabinetfamilia.ch](https://cabinetfamilia.ch)
+
+</div>
 
 <div>
 
