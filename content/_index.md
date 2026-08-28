@@ -6,7 +6,7 @@ title = 'Laetitia Jordan - Ostéopathe à Lavigny'
 <div class="box">
 <div class="box-content">
 
-### Laetitia Jordan<br/>Ostéopathe
+### Laetitia Jordan<br/>Ostéopathe<br/>
 
 <a href="https://perfactive.ch/list/laetitia-jordan" target="_blank" class="btn">Prendre RDV</a>
 
@@ -19,7 +19,7 @@ title = 'Laetitia Jordan - Ostéopathe à Lavigny'
 ### Francesca Marchesini<br/>Ostéopathe 
 
 
-<a href="https://perfactive.ch/laetitia-jordan/francesca-marchesini/book" target="_blank" class="btn">Prendre RDV</a>
+<a href="https://perfactive.ch/osteopathe/lavigny/francesca-marchesini" target="_blank" class="btn">Prendre RDV</a>
 
 </div>
 </div>
@@ -137,7 +137,7 @@ Je suis affiliée au registre des médecines empiriques (RME). Mes consultations
 Route d’Etoy 37<br/>
 1175 Lavigny
 
-[cabinetfamilia.ch](https://cabinetfamilia.ch)
+[Google Maps](https://www.google.com/maps/place/Cabinet+Familia/@46.5000855,6.4058805,495m/data=!3m1!1e3!4m14!1m7!3m6!1s0x478c4900498a8f71:0xeba9aa56923cd96c!2sCabinet+Familia!8m2!3d46.5000818!4d6.4084554!16s%2Fg%2F11njbd9qxl!3m5!1s0x478c4900498a8f71:0xeba9aa56923cd96c!8m2!3d46.5000818!4d6.4084554!16s%2Fg%2F11njbd9qxl?authuser=0&entry=ttu&g_ep=EgoyMDI2MDgyNC4wIKXMDSoASAFQAw%3D%3D)
 
 </div>
 
@@ -152,7 +152,7 @@ Route d’Etoy 37<br/>
 
 ### Francesca Marchesini<br/>Ostéopathe 
 
-<a href="https://perfactive.ch/laetitia-jordan/francesca-marchesini/book" target="_blank" class="btn">Prendre RDV</a>
+<a href="https://perfactive.ch/osteopathe/lavigny/francesca-marchesini" target="_blank" class="btn">Prendre RDV</a>
 
 </div>
 

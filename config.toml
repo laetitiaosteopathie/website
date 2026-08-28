@@ -1,10 +1,10 @@
 baseURL = 'https://laetitiajordan.ch'
 languageCode = 'fr-ch'
-title = 'Laetitia Jordan - Ostéopathe à Lavigny'
+title = 'Laetitia Jordan - Ostéopathe région Morges'
 theme = 'laetitia'
 
 [params]
-  description = "Ostéopathie pédiatrique, périnatale et générale.Consultation pour les nourrissons, enfants, femmes enceintes et adultes. Prenez rendez-vous en ligne."
+  description = "Ostéopathie pédiatrique, périnatale et générale. Situé à Lavigny, le cabinet est facilement accessible en transports publics depuis Morges, Aubonne, Allaman ou Etoy. Rendez-vous en ligne."
  
  
 [markup]
