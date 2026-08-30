@@ -8,7 +8,10 @@ title = 'Laetitia Jordan - Ostéopathe à Lavigny'
 
 ### Laetitia Jordan<br/>Ostéopathe<br/>
 
+
 <a href="https://perfactive.ch/list/laetitia-jordan" target="_blank" class="btn">Prendre RDV</a>
+
+congé maternité jusqu’en janvier 2027
 
 </div>
 </div>
